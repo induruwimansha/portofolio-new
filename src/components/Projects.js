@@ -3,7 +3,7 @@
 import { useState, useRef } from "react";
 import {
   Code2,
-  ExternalLink,
+  
   Eye,
   ChevronLeft,
   ChevronRight,

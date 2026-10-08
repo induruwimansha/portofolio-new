@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  FaHeart,
+
   FaGithub,
   FaLinkedin,
   FaEnvelope,
