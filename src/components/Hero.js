@@ -140,7 +140,7 @@ export default function Hero() {
           <div className="ring animate-spinSlow">
             <div className="ring-inner">
               <img
-                src="/images/profile.jpg"
+                src="/images/profile1.png"
                 alt="Induru Ranasinghe"
               />
             </div>
